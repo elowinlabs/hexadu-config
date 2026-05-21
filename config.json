@@ -1,5 +1,5 @@
 {
-  "adsEnabled": false,
+  "adsEnabled": true,
   "interstitialFrequency": 0,
   "iapEnabled": false
 }
